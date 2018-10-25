@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "images/profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Biography for the left-hand sidebar"
   location         : "Location"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
