@@ -11,9 +11,9 @@ title                    : "Marco Chiapello"
 title_separator          : "-"
 name                     : &name "Marco Chiapello"
 description              : &description "personal description"
-url                      : https://mchiapello.github.io/academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mchiapello.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "mchiapello/academicpages.github.io"
 teaser                   :  "images/profile.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,7 +84,7 @@ author:
   avatar           : "images/profile.png"
   bio              : "Biography for the left-hand sidebar"
   location         : "Turin, Italy"
-  employer         : "(IPSP-CNR)"
+  employer         : "IPSP-CNR"
   googlescholar    : "https://scholar.google.com/citations?hl=it&user=0tYcTcEAAAAJ"
   email            : "chiapello.m@gmail.com"
   uri              :
