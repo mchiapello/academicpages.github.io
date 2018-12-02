@@ -8,7 +8,7 @@ date: 2018-12-01
 location: "Debrecen, Hungary"
 ---
 
-https://fpsom.github.io/2018-12-01-elixir-debrecen/
+[Course link](https://fpsom.github.io/2018-12-01-elixir-debrecen/)
 
 
 
