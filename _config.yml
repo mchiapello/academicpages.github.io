@@ -83,30 +83,30 @@ author:
   name             : "Marco Chiapello"
   avatar           : "images/profile.png"
   bio              : "Biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  location         : "Turin, Italy"
+  employer         : "Institute for Sustainable Plant Protection, National Research Council (IPSP-CNR)"
+  googlescholar    : "https://scholar.google.com/citations?hl=it&user=0tYcTcEAAAAJ"
+  email            : "chiapello.m@gmail.com"
   uri              :
-  bitbucket        :
+  bitbucket        : "https://bitbucket.org/mchiapello/"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mchiapello"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-7768-3047"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/3622876/mchiapello"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@marpello1980"
   vine             :
   weibo            :
   xing             :
